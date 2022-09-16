@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+<h1 align="center">Hi 👋, I'm Shyam target="blank">
 Saurabh</a></h1>
 <h3 align="center">A passionate WebSite developer from Noida  India &#127470;&#127475</h3>
 
@@ -16,9 +16,8 @@ Saurabh</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning React js 
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
 - 💬 Ask me about **PHP  &  React js **
 
