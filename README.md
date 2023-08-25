@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently working on **PHP (Laravel)** and **Flutter** projects.
 - 👯 I’m available for **freelancing opportunities**.
-- 🌱 I’m currently learning **React.js** to enhance my front-end skills.
-- 💬 Ask me about **PHP**, **Laravel**, **Flutter**, and **React.js**.
+- 💬 Ask me about **PHP**, **Laravel** and **Flutter**.
 - 📫 How to reach me: **shyamyadav.cse@gmail.com**
 - 📄 Check out my [Resume](#) to know more about my experiences.
 
